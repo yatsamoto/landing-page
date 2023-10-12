@@ -1,0 +1,40 @@
+h1 {
+  font-family: "Inter", sans-serif;
+  font-size: 49px;
+  line-height: 56px;
+  font-weight: normal;
+  width: 562px;
+  margin: auto;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  margin: 0;
+}
+span {
+  color: #ff9900;
+}
+p {
+  color: #7d7987;
+  font-size: 14px;
+  line-height: 28px;
+}
+.bold {
+  font-weight: bold;
+}
+.hero {
+  width: 592px;
+  margin: 72px auto;
+}
+
+#footer a {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#hero img {
+  margin-bottom: 72px;
+}
+#balls {
+  position: absolute;
+  right: 0px;
+}
